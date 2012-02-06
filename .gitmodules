@@ -1,0 +1,3 @@
+[submodule "team3"]
+	path = team3
+	url = https://github.com/inglesp/Game-of-Life.git
